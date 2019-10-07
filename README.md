@@ -1,2 +1,2 @@
 # Image-Editor
-PicFix is a small light weight image editor application coded in JAVA.
+PicFix is a light weight image editor application coded in JAVA.
